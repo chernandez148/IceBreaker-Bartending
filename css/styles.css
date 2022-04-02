@@ -1,0 +1,51 @@
+@font-face {
+  font-family: BeautifulPeople;
+  src: url(/awseomeFont/BeautifulPeople.ttf);
+}
+
+.font-logo {
+  font-family: BeautifulPeople;
+}
+
+body {
+  background: pink;
+}
+
+.nav-link {
+  font-size: 14px;
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 35%;
+  left: 0;
+  width: 100%;
+}
+
+.fs-54 {
+  font-size: 54px;
+}
+
+.book-us-btn {
+  padding: 1rem 2rem !important;
+  background: transparent !important;
+  border-color: white !important;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.mobile-caption {
+  position: absolute;
+  top: 70px;
+  padding: 1rem;
+}
+
+.px-md-10 {
+  padding: 0 10rem !important;
+}
