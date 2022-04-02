@@ -1,5 +1,5 @@
-@media (max-width: 768px) {
-  .bg-sm-white {
-    background-color: white !important;
+@media (min-width: 768px) {
+  #px-md-10 {
+    padding: 0 10rem !important;
   }
 }
